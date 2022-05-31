@@ -1,6 +1,16 @@
 
 # FULL CRUD WITH mySQL
+
 ---------------------------------
+### Employee
+
+| Parameter | Type | Required |
+| --- | --- | --- |
+| ID  | int | YES |
+| Name | string | YES |
+| Email | string(50) | YES |
+| Address | string(50) | YES |
+| Phone | string(10-15)  | YES |
 
 ---------------------------------
 ## Web Application
