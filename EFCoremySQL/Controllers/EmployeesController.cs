@@ -19,7 +19,7 @@ namespace EFCoremySQL.Controllers
             _context = context;
         }
 
-        // GET: Employees
+        // GET: Employees new commit
         public async Task<IActionResult> Index()
         {
               return _context.Employees != null ? 
